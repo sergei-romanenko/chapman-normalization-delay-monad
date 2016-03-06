@@ -1,0 +1,15 @@
+module BasicSystem.Everything where
+
+import BasicSystem.Utils
+import BasicSystem.DelayMonad
+import BasicSystem.Syntax
+import BasicSystem.Conversion
+import BasicSystem.OPE 
+import BasicSystem.OPELemmas
+import BasicSystem.Normalizer
+import BasicSystem.OPEMoreLemmas
+import BasicSystem.StrongComputability
+import BasicSystem.TerminatingNormalizer
+import BasicSystem.StabilityAndCompleteness
+import BasicSystem.StrongConvertibility
+import BasicSystem.Soundness
